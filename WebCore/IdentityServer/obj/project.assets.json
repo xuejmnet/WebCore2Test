@@ -11470,7 +11470,7 @@
       ]
     },
     "System.Runtime.Serialization.Formatters/4.3.0": {
-      "sha512": "op9J8hLvk95Gsg6q/NSB0R1T0K10HHHk/mkAzjyNJqdKD/VjU0s4Qi/XbStuHx+Wsx4Ze6tHmlRUnMjZ16Wjiw==",
+      "sha512": "KT591AkTNFOTbhZlaeMVvfax3RqhH1EJlcwF50Wm7sfnBLuHiOeZRRKrr1ns3NESkM20KPZ5Ol/ueMq5vg4QoQ==",
       "type": "package",
       "path": "system.runtime.serialization.formatters/4.3.0",
       "files": [
@@ -13011,7 +13011,7 @@
       ]
     },
     "System.Xml.XPath/4.3.0": {
-      "sha512": "5GbtvccaV6ny/Mhgtio2D+W9oGiJHUKTRGv39ilLh8fwEblYYFhkIMk7xICGwBFmDcXmeEL0oAF+Dn23A3vQaw==",
+      "sha512": "v1JQ5SETnQusqmS3RwStF7vwQ3L02imIzl++sewmt23VGygix04pEH+FCj1yWb+z4GDzKiljr1W7Wfvrx0YwgA==",
       "type": "package",
       "path": "system.xml.xpath/4.3.0",
       "files": [
@@ -13115,7 +13115,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Users\\XuejiamingPC\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -13124,17 +13124,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\WebCore\\IdentityServer\\IdentityServer.csproj",
+      "projectUniqueName": "F:\\GitHub\\WebCore2Test\\WebCore\\IdentityServer\\IdentityServer.csproj",
       "projectName": "IdentityServer",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\WebCore\\IdentityServer\\IdentityServer.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\WebCore\\IdentityServer\\obj\\",
+      "projectPath": "F:\\GitHub\\WebCore2Test\\WebCore\\IdentityServer\\IdentityServer.csproj",
+      "packagesPath": "C:\\Users\\XuejiamingPC\\.nuget\\packages\\",
+      "outputPath": "F:\\GitHub\\WebCore2Test\\WebCore\\IdentityServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\XuejiamingPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
