@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\WebCore\IdentityServer
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=IdentityServer
+--content-root=C:\Users\Administrator\Desktop\WebCore\IdentityServer
+--file=C:\Users\Administrator\Desktop\WebCore\IdentityServer\Views\Account\Login.cshtml
+--file=C:\Users\Administrator\Desktop\WebCore\IdentityServer\Views\Account\Register.cshtml
+--file=C:\Users\Administrator\Desktop\WebCore\IdentityServer\Views\Shared\Error.cshtml
+--file=C:\Users\Administrator\Desktop\WebCore\IdentityServer\Views\Shared\_Layout.cshtml
+--file=C:\Users\Administrator\Desktop\WebCore\IdentityServer\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Administrator\Desktop\WebCore\IdentityServer\Views\Shared\_ValidationSummary.cshtml
+--file=C:\Users\Administrator\Desktop\WebCore\IdentityServer\Views\_ViewImports.cshtml
+--file=C:\Users\Administrator\Desktop\WebCore\IdentityServer\Views\_ViewStart.cshtml

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCore", "WebCore\WebCore.csproj", "{A05FAC36-F9A1-402C-8770-021080481DD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer", "IdentityServer\IdentityServer.csproj", "{E48F88A7-95A8-4C2C-996F-29D52F27223F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A05FAC36-F9A1-402C-8770-021080481DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05FAC36-F9A1-402C-8770-021080481DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05FAC36-F9A1-402C-8770-021080481DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05FAC36-F9A1-402C-8770-021080481DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E48F88A7-95A8-4C2C-996F-29D52F27223F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E48F88A7-95A8-4C2C-996F-29D52F27223F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E48F88A7-95A8-4C2C-996F-29D52F27223F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E48F88A7-95A8-4C2C-996F-29D52F27223F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {748D818A-5ADD-4293-AD5E-01EA3CC027A3}
+	EndGlobalSection
+EndGlobal

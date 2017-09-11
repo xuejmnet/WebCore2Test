@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\WebCore\IdentityServer\bin\Release\netcoreapp2.0\IdentityServer.deps.json
+C:\Users\Administrator\Desktop\WebCore\IdentityServer\bin\Release\netcoreapp2.0\IdentityServer.runtimeconfig.json
+C:\Users\Administrator\Desktop\WebCore\IdentityServer\bin\Release\netcoreapp2.0\IdentityServer.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\WebCore\IdentityServer\bin\Release\netcoreapp2.0\IdentityServer.dll
+C:\Users\Administrator\Desktop\WebCore\IdentityServer\bin\Release\netcoreapp2.0\IdentityServer.pdb
+C:\Users\Administrator\Desktop\WebCore\IdentityServer\obj\Release\netcoreapp2.0\IdentityServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WebCore\IdentityServer\obj\Release\netcoreapp2.0\IdentityServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WebCore\IdentityServer\obj\Release\netcoreapp2.0\IdentityServer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WebCore\IdentityServer\obj\Release\netcoreapp2.0\IdentityServer.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WebCore\IdentityServer\obj\Release\netcoreapp2.0\IdentityServer.dll
+C:\Users\Administrator\Desktop\WebCore\IdentityServer\obj\Release\netcoreapp2.0\IdentityServer.pdb
