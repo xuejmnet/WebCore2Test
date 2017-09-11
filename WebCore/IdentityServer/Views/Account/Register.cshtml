@@ -26,6 +26,11 @@
                                 <span asp-validation-for="Password" class="text-danger"></span>
                             </div>
                             <div class="form-group">
+                                <label asp-for="ConfirmPassword"></label>
+                                <input class="form-control" placeholder="ConfirmPassword" asp-for="ConfirmPassword" autocomplete="off">
+                                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
                                 <div class="col-md-offset-2 col-md-10">
                                     <button class="btn btn-default" type="submit" value="register">注册</button>
                                 </div>

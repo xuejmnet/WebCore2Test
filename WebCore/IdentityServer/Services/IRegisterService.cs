@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Identity;
 
 namespace IdentityServer.Services
 {
@@ -13,6 +14,6 @@ namespace IdentityServer.Services
         /// <param name="user"></param>
         /// <param name="password"></param>
         /// <returns></returns>
-        Task<bool> Register(T user,string password);
+        Task<IdentityResult> Register(T user,string password);
     }
 }

@@ -16,16 +16,19 @@ namespace IdentityServer.Controllers
     {
         //private readonly InMemoryUserLoginService _loginService;
         private readonly ILoginService<ApplicationUser> _loginService;
+        private readonly IRegisterService<ApplicationUser> _registerService;
         private readonly ILogger _logger;
         private readonly UserManager<ApplicationUser> _userManager;
         public AccountController(
 
             //InMemoryUserLoginService loginService,
             ILoginService<ApplicationUser> loginService,
+            IRegisterService<ApplicationUser> registerService,
             ILoggerFactory loggerFactory,
             UserManager<ApplicationUser> userManager)
         {
             _loginService = loginService;
+            _registerService = registerService;
             _logger = loggerFactory.CreateLogger<AccountController>();
             _userManager = userManager;
         }
@@ -33,10 +36,10 @@ namespace IdentityServer.Controllers
         [AllowAnonymous]
         public IActionResult Login(string returnUrl)
         {
-            if (User.Identity.IsAuthenticated)
-            {
-                return Redirect(returnUrl);
-            }
+            //if (User.Identity.IsAuthenticated)
+            //{
+            //    return Redirect(returnUrl);
+            //}
 
 
             return View(new LoginViewModel() { ReturnUrl = returnUrl });
@@ -86,14 +89,32 @@ namespace IdentityServer.Controllers
         [AllowAnonymous]
         public IActionResult Register(string returnUrl)
         {
-            return View(new RegisterViewModel());
+            return View();
         }
         [HttpPost]
         [AllowAnonymous]
         [ValidateAntiForgeryToken]
-        public IActionResult Register(RegisterViewModel registerViewModel)
+        public async Task<IActionResult> Register(RegisterViewModel registerViewModel)
         {
-            return View();
+            if(ModelState.IsValid)
+            {
+                var user = new ApplicationUser() { Email = registerViewModel.Username, UserName = registerViewModel.Username,CardNumber="18058422760" };
+                var result = await _registerService.Register(user, registerViewModel.Password);
+                if (result.Succeeded)
+                {
+                    return RedirectToAction("Login", "Account");
+                }
+                AddErrorsFromResult(result);
+            }
+
+            return View(registerViewModel);
+        }
+        private void AddErrorsFromResult(IdentityResult result)
+        {
+            foreach (var error in result.Errors)
+            {
+                ModelState.AddModelError("", error.Description);
+            }
         }
     }
 }

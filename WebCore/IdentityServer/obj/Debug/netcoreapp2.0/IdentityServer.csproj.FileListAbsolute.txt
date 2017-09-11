@@ -31,3 +31,14 @@ C:\Users\XuejiamingPC\Desktop\WebCore\IdentityServer\obj\Debug\netcoreapp2.0\Ide
 C:\Users\XuejiamingPC\Desktop\WebCore\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfo.cs
 C:\Users\XuejiamingPC\Desktop\WebCore\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.dll
 C:\Users\XuejiamingPC\Desktop\WebCore\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.pdb
+F:\GitHub\WebCore2Test\WebCore\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.deps.json
+F:\GitHub\WebCore2Test\WebCore\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.runtimeconfig.json
+F:\GitHub\WebCore2Test\WebCore\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.runtimeconfig.dev.json
+F:\GitHub\WebCore2Test\WebCore\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.dll
+F:\GitHub\WebCore2Test\WebCore\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.pdb
+F:\GitHub\WebCore2Test\WebCore\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.csprojResolveAssemblyReference.cache
+F:\GitHub\WebCore2Test\WebCore\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.csproj.CoreCompileInputs.cache
+F:\GitHub\WebCore2Test\WebCore\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfoInputs.cache
+F:\GitHub\WebCore2Test\WebCore\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfo.cs
+F:\GitHub\WebCore2Test\WebCore\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.dll
+F:\GitHub\WebCore2Test\WebCore\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.pdb

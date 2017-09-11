@@ -20,3 +20,14 @@ C:\Users\Administrator\Desktop\WebCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.A
 C:\Users\Administrator\Desktop\WebCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.AssemblyInfo.cs
 C:\Users\Administrator\Desktop\WebCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.dll
 C:\Users\Administrator\Desktop\WebCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.pdb
+F:\GitHub\WebCore2Test\WebCore\WebCore\bin\Debug\netcoreapp2.0\WebCore.deps.json
+F:\GitHub\WebCore2Test\WebCore\WebCore\bin\Debug\netcoreapp2.0\WebCore.runtimeconfig.json
+F:\GitHub\WebCore2Test\WebCore\WebCore\bin\Debug\netcoreapp2.0\WebCore.runtimeconfig.dev.json
+F:\GitHub\WebCore2Test\WebCore\WebCore\bin\Debug\netcoreapp2.0\WebCore.dll
+F:\GitHub\WebCore2Test\WebCore\WebCore\bin\Debug\netcoreapp2.0\WebCore.pdb
+F:\GitHub\WebCore2Test\WebCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.csprojResolveAssemblyReference.cache
+F:\GitHub\WebCore2Test\WebCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.csproj.CoreCompileInputs.cache
+F:\GitHub\WebCore2Test\WebCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.AssemblyInfoInputs.cache
+F:\GitHub\WebCore2Test\WebCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.AssemblyInfo.cs
+F:\GitHub\WebCore2Test\WebCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.dll
+F:\GitHub\WebCore2Test\WebCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.pdb

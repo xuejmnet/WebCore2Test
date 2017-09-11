@@ -15,10 +15,9 @@ namespace IdentityServer.Services
         {
             _userManager = userManager;
         }
-        public async Task<bool> Register(ApplicationUser user, string password)
+        public async Task<IdentityResult> Register(ApplicationUser user, string password)
         {
-            var idResult = await _userManager.CreateAsync(user, password);
-            return idResult.Succeeded;
+            return await _userManager.CreateAsync(user, password);
         }
     }
 }
